@@ -1,0 +1,17 @@
+[
+  {
+    "Date": "2024-03-06T19:21:51.6018711+02:00",
+    "TemperatureC": 32,
+    "Summary": "New test summary one"
+  },
+  {
+    "Date": "2024-03-06T19:41:51.6018711+02:00",
+    "TemperatureC": 45,
+    "Summary": "second test summary"
+  },
+  {
+    "Date": "2024-03-06T19:55:51.6018711+02:00",
+    "TemperatureC": 21,
+    "Summary": "third test summary"
+  }
+]
