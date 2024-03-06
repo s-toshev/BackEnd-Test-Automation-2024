@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiTestingDemo_", "Demo\Api
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestSharpDemo", "RestSharpDemo\RestSharpDemo.csproj", "{55F93DFB-6A20-4CB2-ADE4-900806B9FAB6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestSharpTestingProjectDemo", "RestSharpTestingProjectDemo\RestSharpTestingProjectDemo.csproj", "{C06D0884-90BA-4406-9E19-D57F85A767E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{55F93DFB-6A20-4CB2-ADE4-900806B9FAB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55F93DFB-6A20-4CB2-ADE4-900806B9FAB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55F93DFB-6A20-4CB2-ADE4-900806B9FAB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C06D0884-90BA-4406-9E19-D57F85A767E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C06D0884-90BA-4406-9E19-D57F85A767E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C06D0884-90BA-4406-9E19-D57F85A767E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C06D0884-90BA-4406-9E19-D57F85A767E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
